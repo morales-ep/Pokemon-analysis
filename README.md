@@ -9,9 +9,9 @@ This repository contains files related to projects involving the [Pokémon with 
 
 ### About the Dataset
 
-This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
+This data set includes 721 Pokémon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
 
-This are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).
+These are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokémon games (NOT pokémon cards or Pokemon Go).
 
 The data as described by [Myles O'Neill](https://www.kaggle.com/mylesoneill) (with slight edits):
 
