@@ -41,5 +41,5 @@ The dataset will also be provided on this Github repository [here](https://githu
 - **data** contains files of the dataset(s) used for pokémon data analysis projects
   + *raw_data* contains the raw data downloaded directly from their source, e.g. Kaggle, before data wrangling and processing
   + *cleanPokemon.csv* is the dataset that was produced in the script file *pokemonCleaning.R*; the file is intended to facilitate analyses for future projects
-   - This csv file has variables/columns with proper format (e.g., factor variables that were previously character variables), properly categorized legendary and mystical pokémon, and removes "mega" pokémon
+      - This csv file has variables/columns with proper format (e.g., factor variables that were previously character variables), properly categorized legendary and mystical pokémon, and removes "mega" pokémon
   + *pokemonCleaning.R* contains the R script used to process and prepare a dataset based on the raw data in order to facilitate future work
