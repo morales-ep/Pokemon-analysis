@@ -1,5 +1,5 @@
 # Pokemon Data Analysis
-This repository contains files related to projects involving the [Pokémon with Stats](https://www.kaggle.com/abcsds/pokemon) dataset
+This repository contains files and project(s) involving the [Pokémon with Stats](https://www.kaggle.com/abcsds/pokemon) dataset
 
 ![Image](https://images.nintendolife.com/12057e37053a0/pokemon-gotta-catch-em-all.large.jpg)
 
@@ -35,7 +35,7 @@ The data is originally sourced from several websites but can be obtained through
 - [Kaggle](https://www.kaggle.com/abcsds/pokemon)
 - [data.world](https://data.world/data-society/pokemon-with-stats)
 
-The dataset will also be provided on this Github repository [here](https://github.com/morales-ep/Pokemon-analysis/blob/73e83606f543f95ff3036819c3b49388145506a6/data/raw_data/Pokemon.csv)
+The dataset is also accessible [here](https://github.com/morales-ep/Pokemon-analysis/blob/73e83606f543f95ff3036819c3b49388145506a6/data/raw_data/Pokemon.csv) in this Github repository.
 
 ### Directory Structure
 - **data** contains files of the dataset(s) used for pokémon data analysis projects
