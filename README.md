@@ -43,3 +43,5 @@ The dataset is also accessible [here](https://github.com/morales-ep/Pokemon-anal
   + *cleanPokemon.csv* is the dataset that was produced in the script file *pokemonCleaning.R*; the file is intended to facilitate analyses for future projects
       - This csv file has variables/columns with proper format (e.g., factor variables that were previously character variables), properly categorized legendary and mystical pokémon, and removes "mega" pokémon
   + *pokemonCleaning.R* contains the R script used to process and prepare a dataset based on the raw data in order to facilitate future work
+  + *pokeThrowaway.R* contains R script of data processing and cleaning code used for *pokemonCleaning.R* in addition to miscellaneous, unguided exploratory data analysis
+      - This file may be used as a reference to guide future projects and analyses
